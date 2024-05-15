@@ -5,9 +5,11 @@
 
 ## Skills
 
-- Reactive programming (Combine/RxSwift)
-- SOLID and OOP development principals
-- Common iOS architectures (MVC, VIP, VIPER)
+- **End-to-End** application development
+- Reactive programming: **Combine, RxSwift**
+- **SOLID** and **OOP** development principals
+- Common iOS architectures: **MVC, VIP, VIPER**
+- Complementary experience: **React-Native, React, Angular, C++, C#, NodeJS, Typescript, Unity**
 
 ## Tech Stack
 
@@ -16,36 +18,51 @@
 
 ## Experience
 
-### @beamLive Inc. (2021-)
+### beamLive [:link:](https://apps.apple.com/us/app/beamlive/id1570276190) *@beamLive Inc. (2021-)*
 
-- Joined as **Lead iOS Engineer**
-- Collaborated with **System Architect** to enhance company's flagship product
-- **Oversaw and managed development processes** for diverse features across multiple platforms
-- Experience with clean code architectures **MVC, VIP, VIPER**
-- Experience with iOS frameworks and tools: **Networking (AF, Socket, MQTT), Maps (MapKit, GoogleMaps), RxSwift/Combine, Firebase, Twilio,** etc.
+![montage](/assets/beamLive/screens.png)
 
-#### Applications:
-
-***beamLive*** [:link:](https://apps.apple.com/us/app/beamlive/id1570276190)
-
-![home](/assets/beamLive/screens.png)
+- Contribution: **Lead iOS Engineer**
+- Architecture: **VIP**
+- Frameworks and tools: **UIKit, Combine, Networking(Rest, MQTT), Maps(MapKit, GoogleMaps), WebKit, Firebase, Twilio,**
+-  
 
 ---
-#### @EN-CO Software Kft. (2014-2020)
 
-- Progressed from Junior to Senior level in **iOS development**
-- Experience with iOS frameworks and tools: **Networking (AF, Moya), Maps (MapKit, GoogleMaps), RxSwift/Combine, Firebase,** etc.
-- Experience with **ARKit** and **Metal** for custom rendering of animated 3D objects
-- Collaborated with **UI/UX** designers and **API/Backend** developers closely
-- **Designed and implemented** iOS projects end-to-end, including initial price estimates and AppStore publishing
-- Experienced various environments besides iOS: **React-Native, React, Angular, C++, C#, NodeJS, Typescript, Unity**
+### AR focused video sharing app *@EN-CO Software Kft. (2014-2020)*
 
-### RisingStar
+- Contribution: **Senior iOS Engineer**
+- Architecture: **MVC**
+- Frameworks and tools: **UIKit, ARKit, Metal, AVKit, RXSwift, Networking(Rest), Firebase,**
+-  
 
-### Budapest Sport [:link:](https://apps.apple.com/hu/app/budapest-sport-alkalmaz%C3%A1s/id1435044197?l=hu)
+---
 
-![home](/assets/budapestSport/screens.png)
+### Guided meditation app *@EN-CO Software Kft. (2014-2020)*
 
-### Hungary Today [:link:](https://apps.apple.com/hu/app/hungary-today/id1238240482)
+- Contribution: **Senior iOS Engineer**
+- Architecture: **MVC**
+- Frameworks and tools: **UIKit, AVKit, Networking(Rest), Firebase,**
+-  
 
-![home](/assets/hungaryToday/screens.png)
+---
+
+### Budapest Sport [:link:](https://apps.apple.com/hu/app/budapest-sport-alkalmaz%C3%A1s/id1435044197?l=hu) *@EN-CO Software Kft. (2014-2020)*
+
+![montage](/assets/budapestSport/screens.png)
+
+- Contribution: **iOS Engineer**
+- Architecture: **MVC**
+- Frameworks and tools: **UIKit, Networking(Rest), GoogleMaps, Firebase,**
+-  
+
+---
+
+### Hungary Today [:link:](https://apps.apple.com/hu/app/hungary-today/id1238240482) *@EN-CO Software Kft. (2014-2020)*
+
+![montage](/assets/hungaryToday/screens.png)
+
+- Contribution: **iOS Engineer**
+- Architecture: **MVC**
+- Frameworks and tools: **UIKit, Networking(Rest), Firebase,**
+-  
