@@ -35,10 +35,10 @@ Some of the main features:
 - Architecture: **VIP**
 - Frameworks and tools: **UIKit, Combine, Networking(Rest, MQTT), Maps(GoogleMaps, MapKit), WebKit, CallKit, Twilio, Firebase**
 - Challenges:
-- - Architect the app into a Framework system to be able to share only the required features with customers
-- - Handle event based content updating protocols
-- - Mitigate location tracking imperfections due to accuracy drops
-- - Offline caching and buffering for as much functionality as possible
+    - Architect the app into a Framework system to be able to share only the required features with customers
+    - Handle event based content updating protocols
+    - Mitigate location tracking imperfections due to accuracy drops
+    - Offline caching and buffering for as much functionality as possible
 
 ---
 
@@ -50,10 +50,10 @@ Video sharing social application with an AR focus. Create videos with your favou
 - Architecture: **MVC**
 - Frameworks and tools: **UIKit, ARKit, Metal, AVKit, RXSwift, Networking(Rest), Firebase,**
 - Challenges: 
-- - Incorporate C++ SDK for decoding the custom made 3D models provided by the customer
-- - Render and animate the custom 3D models via low level ARKit functions and Metal shaders
-- - Provide customisation features like animation speed manipulation and coloured shaders
-- - Capture the rendered frames, add a dynamically placed watermark to the frames, and create the final video by mixing in the audio from the microphone
+    - Incorporate C++ SDK for decoding the custom made 3D models provided by the customer
+    - Render and animate the custom 3D models via low level ARKit functions and Metal shaders
+    - Provide customisation features like animation speed manipulation and coloured shaders
+    - Capture the rendered frames, add a dynamically placed watermark to the frames, and create the final video by mixing in the audio from the microphone
 
 ---
 
@@ -65,9 +65,9 @@ Subscription based guided meditation application providing a large variety of co
 - Architecture: **MVC**
 - Frameworks and tools: **UIKit, AVKit, Networking(Rest, Socket), RXSwift, Firebase,**
 - Challenges: 
-- - Handle playback of audio playlists in any state of the app
-- - Handle subscriptions via In-App Purchase API
-- - Provide offline capabilities for saving owned content
+    - Handle playback of audio playlists in any state of the app
+    - Handle subscriptions via In-App Purchase API
+    - Provide offline capabilities for saving owned content
 
 ---
 
