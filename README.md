@@ -1,22 +1,28 @@
 ## About me!
 
-- Senior iOS Developer (9+ years)
+- Senior iOS Developer (9+ years) 
+- Comfortable working alone or as a part of a team
 - Looking for **Full time** Job Opportunities
 
 ## Skills
 
 - **End-to-End** application development
+- **SOLID**, **OOP** and **TDD** development principals
 - Reactive programming: **Combine, RxSwift**
-- **SOLID** and **OOP** development principals
 - Common iOS architectures: **MVC, VIP, VIPER**
-- Complementary experience: **React-Native, React, Angular, C++, C#, NodeJS, Typescript, Unity**
+- Complementary experience: **React-Native, React, Angular, C++, C#, NodeJS, Typescript, Unity, SQL**
+- Source control experience: **GitHub, GitLab** with an understanding of **Gitflow** principals
+- Basic CI/CD experience: **Fastlane, Github Actions**
+- Exeprience as **Team Lead** for iOS development team of 2-3 people
+- Experience as **Technical Manager** for cross platform team of 4-6 people (iOS, Android, React, NodeJS)
+- Experience as **Mentor** for Intern and Junior developers
 
-## Tech Stack
+<!-- ## Tech Stack
 
 ![Swift](https://img.shields.io/badge/-Swift-FA4839?style=flat&logo=swift&logoColor=FFFFFF)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=FFFFFF) -->
 
-## Experience
+## Projects
 
 ### beamLive [:link:](https://apps.apple.com/us/app/beamlive/id1570276190) *@beamLive Inc. (2021-)*
 
