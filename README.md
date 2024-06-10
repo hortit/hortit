@@ -3,6 +3,7 @@
 - Senior iOS Developer (9+ years) 
 - Comfortable working alone or as a part of a team
 - Looking for **Full time** Job Opportunities
+- [LinkedIn](https://www.linkedin.com/in/horti-tam%C3%A1s-7746b2149)
 
 ## Skills
 
