@@ -1,20 +1,19 @@
 ## About me!
 
-- Senior iOS Developer (9+ years) 
+- Senior iOS Developer (10+ years) 
 - Comfortable working alone or as a part of a team
-- Looking for **Full time** Job Opportunities
 - [LinkedIn](https://www.linkedin.com/in/horti-tam%C3%A1s-7746b2149)
 
 ## Skills
 
-- **End-to-End** application development
+- iOS: **Swift**, **SwiftUI**, **UIKit**, **Structured Concurrency**, **Combine/RxSwift**
+- **End-to-End** application development and publication
 - **SOLID**, **OOP** and **TDD** development principals
-- Reactive programming: **Combine, RxSwift**
-- Common iOS architectures: **MVC, VIP, VIPER**
+- Common iOS architectures: **MVC, VIP, VIPER, MVI**
 - Complementary experience: **React-Native, React, Angular, C++, C#, NodeJS, Typescript, Unity, SQL**
 - Source control experience: **GitHub, GitLab** with an understanding of **Gitflow** principals
 - Basic CI/CD experience: **Fastlane, Github Actions**
-- Exeprience as **Team Lead** for iOS development team of 2-3 people
+- Exeprience as **Team Lead** for iOS development team of 2-6 people
 - Experience as **Technical Manager** for cross platform team of 4-6 people (iOS, Android, React, NodeJS)
 - Experience as **Mentor** for Intern and Junior developers
 
@@ -25,7 +24,13 @@
 
 ## Projects
 
-### beamLive [:link:](https://apps.apple.com/us/app/beamlive/id1570276190) *@beamLive Inc. (2021-)*
+### Green field project *@Trendency Online Zrt. (2024-)*
+
+- Contribution: **Tech Lead iOS Engineer**
+- Architecture: **MVI**
+- Frameworks and tools: **SwiftUI, Structured Concurrenc**
+
+### beamLive [:link:](https://apps.apple.com/us/app/beamlive/id1570276190) *@beamLive Inc. (2021-2024)*
 
 All in one application to showcase most of the capabilities of the SaaS platform provided by the company.
 Some of the main features: 
